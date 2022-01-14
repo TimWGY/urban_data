@@ -107,4 +107,6 @@ Lawhead, Joel. Learning geospatial analysis with Python. Packt Publishing Ltd, 2
 
 SpaceNet Datasets: https://spacenet.ai/datasets/
 
+NYU Urban Modeling: https://wp.nyu.edu/urbanmodeling/our-work/our-data/
 
+BUILT @ NYU: https://wp.nyu.edu/built/recent-active-research/data-library/
