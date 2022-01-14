@@ -102,3 +102,9 @@ Geopandas technical documentation (GitHub). https://github.com/geopandas/geopand
 Geopandas tutorial example. https://www.datacamp.com/community/tutorials/geospatial-data-python
 Graser, Anita. Learning QGIS 2.0. Packt Publishing Ltd, 2013. https://clio.columbia.edu/catalog/14115919
 Lawhead, Joel. Learning geospatial analysis with Python. Packt Publishing Ltd, 2015. https://clio.columbia.edu/catalog/14590439
+
+-- 
+
+SpaceNet Datasets: https://spacenet.ai/datasets/
+
+
